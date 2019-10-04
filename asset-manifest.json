@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-mosnter-rolodex/static/css/main.edccab91.chunk.css",
+    "main.js": "/react-mosnter-rolodex/static/js/main.10ac304f.chunk.js",
+    "main.js.map": "/react-mosnter-rolodex/static/js/main.10ac304f.chunk.js.map",
+    "runtime-main.js": "/react-mosnter-rolodex/static/js/runtime-main.b3f0c1a4.js",
+    "runtime-main.js.map": "/react-mosnter-rolodex/static/js/runtime-main.b3f0c1a4.js.map",
+    "static/js/2.fb04d3fc.chunk.js": "/react-mosnter-rolodex/static/js/2.fb04d3fc.chunk.js",
+    "static/js/2.fb04d3fc.chunk.js.map": "/react-mosnter-rolodex/static/js/2.fb04d3fc.chunk.js.map",
+    "index.html": "/react-mosnter-rolodex/index.html",
+    "precache-manifest.e57eef69bf7e2f6d7927e0a813e051b3.js": "/react-mosnter-rolodex/precache-manifest.e57eef69bf7e2f6d7927e0a813e051b3.js",
+    "service-worker.js": "/react-mosnter-rolodex/service-worker.js",
+    "static/css/main.edccab91.chunk.css.map": "/react-mosnter-rolodex/static/css/main.edccab91.chunk.css.map"
+  }
+}
